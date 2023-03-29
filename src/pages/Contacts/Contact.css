@@ -1,0 +1,46 @@
+.connect{
+    height: 100vh;
+    width: 100%;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(aqua,lightblue);
+    box-sizing: border-box;
+}
+.btn4{
+    z-index: 12;
+    width: 150px;
+    padding: 15px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.cnt img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.cnt{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.btn4 a:link , a:visited{
+    text-decoration: none;
+    color: black;
+}
+.git{
+    padding-left: 10px;
+    padding-right: 8px;
+}
+.cnt:hover{
+    background: rgba(255, 255, 255, 0.3);
+}

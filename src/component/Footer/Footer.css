@@ -1,0 +1,25 @@
+.footer{
+    height: 20px;
+    background-color: #607d8b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    /* position: fixed;
+    bottom: 0; */
+}
+
+.footer2{
+    height: 25px;
+    background-color: #607d8b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    font-size: 12px;
+    /* position: fixed;
+    bottom: 0; */
+}

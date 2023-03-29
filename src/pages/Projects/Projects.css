@@ -1,0 +1,22 @@
+.project{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.link-live {
+    display:flex;
+}
+
+.link{
+    margin-right: 20px;
+}
+
+a{
+    color: blue;
+}
+a:hover{
+    color: crimson;
+}
