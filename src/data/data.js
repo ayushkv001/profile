@@ -3,7 +3,7 @@ export const projectData = [
         name:"Profile",
         link:"profile",
         live:"profile",
-        desc:"A Web App "
+        desc:"A Web profile which describes about my education, skills and projects."
     },
     {
         name:"Box Office App",
@@ -44,6 +44,14 @@ export const projectData = [
 
 ]
 
+export const projectData2 = [
+    {
+        name:"Social Media App",
+        link:"social-media-app-mern",
+        live:"https://social-media-app-front-murex.vercel.app/",
+        desc:"Social Media App built using MERN Stack. Users can post message, make friends and view profiles and messages of others."
+    },
+]
 
 
 export const skillsData = [
