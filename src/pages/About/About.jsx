@@ -21,7 +21,7 @@ const About = () =>{
             <ul className='f2'>
                 <li>B. Tech. CSE | MMMUT, Gorakhpur</li>
                 <li>2019 - 2023</li>
-                <li>CGPA : 8.39</li>
+                <li>CGPA : 8.33</li>
                 <br/>
                 <li>Intermediate (I.C.S.E) | St. Thomas School, Khalilabad </li>
                 <li>2017 - 2018</li>
