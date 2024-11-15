@@ -19,6 +19,10 @@ const About = () =>{
             <hr/>
             <b><h2>Education</h2></b>
             <ul className='f2'>
+                <li>M. Tech. CSE | IIT Patna</li>
+                <li>2024 - present</li>
+                <li>CGPA : N/A</li>
+                <br/>
                 <li>B. Tech. CSE | MMMUT, Gorakhpur</li>
                 <li>2019 - 2023</li>
                 <li>CGPA : 8.33</li>
